@@ -1,0 +1,8 @@
+﻿  RSA.cpp
+D:\Program File\WinNTL-11_5_1\include\NTL\lip.h(399,40): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+  main.cpp
+D:\Program File\WinNTL-11_5_1\include\NTL\lip.h(399,40): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\VScode\Crypto\RSA\main.cpp(90,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\VScode\Crypto\RSA\main.cpp(105,16): warning C4244: “=”: 从“long”转换到“char”，可能丢失数据
+  正在生成代码...
+  RSA.vcxproj -> D:\VScode\Crypto\x64\Debug\RSA.exe

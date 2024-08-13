@@ -1,0 +1,10 @@
+﻿  Certificate.cpp
+D:\Program File\WinNTL-11_5_1\include\NTL\lip.h(399,40): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\VScode\Crypto\Certificate\Certificate.cpp(31,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\VScode\Crypto\Certificate\Certificate.cpp(49,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\VScode\Crypto\Certificate\Certificate.cpp(83,39): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\VScode\Crypto\Certificate\Certificate.cpp(155,12): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+D:\Program File\WinNTL-11_5_1\include\NTL\lip.h(399,40): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+  正在生成代码...
+  Certificate.vcxproj -> D:\VScode\Crypto\x64\Debug\Certificate.exe
